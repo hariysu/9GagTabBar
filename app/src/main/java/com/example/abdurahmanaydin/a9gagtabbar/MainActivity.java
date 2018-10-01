@@ -37,6 +37,8 @@ public class MainActivity extends AppCompatActivity {
         //create etmeyi başardık. tablayout objesi MainActivity açıldığında onCreate'de çağrılacak ve fresh,hot,trending
         //xml'lerinde ne dizayn yaptıysak onlar karşımıza çıkacak
 
+        //MainActivity to SectionsPageAdapter to Fragment(Fresh,Hot,Trending)
+
 
     }
 
